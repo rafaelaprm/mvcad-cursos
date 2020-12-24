@@ -1,0 +1,501 @@
+nome,cpf,uf,turma,data_nascimento,email,endereco,período,modulo
+Alana Ramos,287.153.964-28,Pará,2,1999-12-28,pteixeira@goncalves.com,"Recanto de da Paz, 2",matutino,introdução ao python
+Joana da Mata,742.958.301-60,São Paulo,3,1993-08-24,da-cunhaana-clara@uol.com.br,"Trecho Silveira, 812",matutino,introdução ao python
+Júlia Novaes,345.761.829-19,Paraná,2,1991-11-12,miguel15@pinto.com,"Vila de Oliveira, 779",noturno,git
+Larissa da Costa,971.386.452-28,Paraná,1,1994-07-29,raquelda-rosa@freitas.br,"Rua de Porto, 5",matutino,git
+Nathan Araújo,903.714.685-66,Ceará,3,2001-03-05,bruna66@uol.com.br,"Trevo de Nogueira, 36",matutino,github
+Emanuella Freitas,381.706.254-08,Amapá,2,1997-06-04,sfreitas@yahoo.com.br,"Parque Cecília Silveira, 924",noturno,aprofundamento ao python
+João Guilherme Peixoto,398.710.465-10,Distrito Federal,1,1991-02-18,kaique26@almeida.com,"Ladeira de Nogueira, 52",vespertino,scrum
+Lavínia Rezende,359.082.176-03,Paraíba,1,2002-12-27,freitasmatheus@hotmail.com,"Estrada Beatriz da Mota, 74",matutino,carreiras
+Emanuelly Teixeira,963.578.140-75,Paraná,2,1998-11-18,vitorfernandes@bol.com.br,"Ladeira Dias, 70",vespertino,banco de dados
+Ian Teixeira,581.234.067-62,Ceará,2,1995-03-30,joaquimaraujo@uol.com.br,"Quadra Renan Pereira, 6",noturno,carreiras
+Daniela Rezende,378.205.169-68,São Paulo,1,2001-08-27,heitormoreira@duarte.br,Recanto Helena Ramos,noturno,introdução ao python
+João Gabriel Cardoso,831.602.479-96,Pará,1,2004-07-18,vitor-gabrielaraujo@hotmail.com,"Trecho Pires, 315",matutino,banco de dados
+Daniela Cardoso,218.697.534-37,Rio Grande do Sul,3,1991-08-21,vieirafrancisco@martins.com,"Praça Joana da Costa, 20",matutino,aprofundamento ao python
+Vicente Ribeiro,670.192.358-59,Pará,2,1991-03-23,franciscoda-mota@cardoso.com,"Setor Martins, 29",vespertino,banco de dados
+Nina Ribeiro,370.854.692-00,Rio Grande do Sul,1,1994-01-22,juan00@hotmail.com,"Estação Thiago Oliveira, 8",vespertino,introdução ao python
+Lívia Silva,751.982.046-76,Rondônia,3,2004-07-19,da-matasabrina@viana.com,"Esplanada Souza, 85",vespertino,github
+Pedro Henrique Campos,831.256.097-12,Amapá,2,1994-07-28,caua17@yahoo.com.br,"Setor Marcela Moreira, 62",noturno,git
+Rebeca Monteiro,806.173.249-13,Tocantins,2,1991-03-25,milenamelo@monteiro.org,"Fazenda Nascimento, 647",matutino,carreiras
+Igor Porto,897.130.465-01,Alagoas,2,2002-02-10,leandro79@melo.com,"Fazenda Moura, 71",vespertino,aprofundamento ao python
+Ana Sophia Cunha,651.930.827-77,Sergipe,2,2001-12-25,nascimentocaue@gmail.com,"Recanto Valentina Porto, 64",matutino,github
+Maysa Moraes,506.893.124-15,Piauí,2,2001-05-26,davi-lucas43@da.br,"Condomínio Luiz Fernando Carvalho, 50",matutino,github
+Thales Martins,681.409.537-84,Ceará,3,1991-12-03,vianavitor@bol.com.br,Lago Amanda Carvalho,vespertino,aprofundamento ao python
+Lara Correia,816.507.439-39,Mato Grosso,3,1995-03-05,mda-mota@bol.com.br,"Loteamento de Viana, 694",vespertino,git
+Heitor da Cruz,690.485.213-51,Rondônia,2,2004-05-22,martinsraquel@viana.net,"Distrito Marcos Vinicius Pinto, 53",vespertino,carreiras
+João Lucas Moura,472.583.619-28,Alagoas,2,1996-09-21,vianabryan@da.com,"Estação Moreira, 35",vespertino,scrum
+Kevin Alves,536.870.491-75,Alagoas,3,2003-04-18,joana89@bol.com.br,"Morro Maria Luiza Teixeira, 66",noturno,carreiras
+Rafael Mendes,382.915.460-70,Piauí,1,1993-07-27,limakamilly@castro.br,"Passarela Gonçalves, 87",vespertino,banco de dados
+Catarina Sales,763.958.014-57,Paraná,2,2004-08-23,nathan46@bol.com.br,"Vereda Lucas Gabriel Rodrigues, 23",matutino,carreiras
+Bernardo Nascimento,502.693.478-10,Amazonas,2,1998-08-27,duartemaria-clara@carvalho.br,Feira Farias,vespertino,scrum
+Maria Fernanda Nascimento,873.162.490-13,Distrito Federal,1,2003-08-26,cardosoana-carolina@duarte.br,"Travessa Viana, 28",vespertino,github
+Eloah Castro,602.987.513-21,Rio Grande do Norte,3,2003-02-24,ucosta@ferreira.com,"Vila Gabriela da Rocha, 99",noturno,introdução ao python
+João Miguel Viana,491.672.053-99,Amazonas,3,2003-06-21,gabriel88@aragao.com,"Aeroporto Felipe Alves, 47",vespertino,git
+Marcos Vinicius Oliveira,167.824.935-19,Sergipe,3,1996-09-13,ryandias@uol.com.br,"Rodovia da Costa, 53",vespertino,introdução ao python
+Nina Oliveira,604.795.382-47,Distrito Federal,2,1995-09-06,kaique74@ig.com.br,Praia Nicole Ribeiro,matutino,introdução ao python
+Daniela Melo,178.903.462-04,Alagoas,2,1999-05-24,hda-luz@da.com,"Lagoa de Mendes, 833",vespertino,banco de dados
+Gabrielly Lima,356.794.028-74,Amapá,2,1994-01-25,rebeca90@yahoo.com.br,"Esplanada de das Neves, 97",vespertino,scrum
+Camila Jesus,085.341.769-57,Rondônia,1,1999-08-28,bsantos@duarte.net,"Parque Diego Melo, 73",noturno,github
+Gabrielly Barros,378.906.124-78,Paraíba,3,1992-06-11,beatrizda-mota@dias.com,"Condomínio Ana Carolina da Mata, 3",vespertino,github
+Bernardo Caldeira,593.074.681-84,Amazonas,3,1997-08-29,martinsfrancisco@yahoo.com.br,"Via de Carvalho, 32",noturno,github
+Evelyn Moreira,691.238.740-31,Santa Catarina,3,2000-04-07,matheus59@goncalves.com,"Alameda de da Cruz, 26",noturno,scrum
+Daniel Aragão,491.267.850-30,Mato Grosso do Sul,2,1990-11-15,larissada-mota@bol.com.br,"Ladeira Santos, 20",noturno,aprofundamento ao python
+Thales da Mota,346.798.105-48,Goiás,1,1996-06-12,arthurduarte@cardoso.br,"Via Fernandes, 42",vespertino,banco de dados
+Marcelo Barros,792.063.584-56,Alagoas,3,1992-11-15,gcosta@ig.com.br,"Lago Ana Beatriz Jesus, 895",matutino,git
+João Lucas Lopes,042.876.935-74,Bahia,1,2002-03-20,wmoura@cardoso.com,"Chácara Rocha, 96",noturno,git
+Alexandre Porto,360.214.857-26,Bahia,1,1991-07-22,nicolasduarte@uol.com.br,"Fazenda Luigi Viana, 5",matutino,github
+Ryan Melo,702.546.138-53,Rondônia,1,1995-02-20,duarteheitor@yahoo.com.br,"Recanto de Cardoso, 29",vespertino,banco de dados
+Ana Laura Ferreira,639.480.715-00,Amazonas,2,1993-08-28,fogacalorenzo@sales.br,"Distrito de da Mata, 2",matutino,aprofundamento ao python
+Sarah Viana,436.810.529-05,Rondônia,2,1997-04-04,yazevedo@melo.com,"Condomínio de da Paz, 293",noturno,github
+João Gabriel da Rosa,716.524.398-46,Maranhão,3,1997-08-29,haragao@uol.com.br,Viaduto da Mata,vespertino,banco de dados
+Calebe Viana,201.347.586-17,Roraima,3,2002-05-19,ncardoso@goncalves.br,Distrito Cavalcanti,noturno,carreiras
+Olivia Lopes,856.173.942-82,Santa Catarina,3,2001-08-31,joao-gabrielsouza@cardoso.br,"Sítio de Dias, 17",noturno,aprofundamento ao python
+Ian Pinto,126.043.987-96,Paraíba,1,1995-05-09,miguel81@da.com,"Rodovia da Cruz, 97",noturno,github
+Rebeca Pinto,749.586.013-84,Paraná,2,1999-03-04,vitoria15@nascimento.com,"Parque da Rocha, 70",noturno,introdução ao python
+Maitê Silveira,018.397.564-20,Espírito Santo,3,2001-05-31,joaocosta@yahoo.com.br,"Parque de da Mota, 32",matutino,banco de dados
+Kevin Oliveira,264.387.159-64,Amazonas,2,1999-11-02,dmartins@campos.com,"Via de Castro, 22",noturno,github
+Pedro Henrique Costa,231.975.068-12,Roraima,3,1996-08-22,ribeirodavi-luiz@cardoso.com,"Área Júlia Lima, 14",matutino,introdução ao python
+Ana Lívia Farias,860.539.217-77,Minas Gerais,2,1995-03-29,jramos@azevedo.net,"Lagoa Nunes, 57",matutino,introdução ao python
+André Peixoto,057.421.839-41,Rondônia,2,1999-09-14,isabelly57@uol.com.br,"Vila Mendes, 7",noturno,introdução ao python
+Lucas Lima,038.415.679-75,Rio de Janeiro,2,2004-01-11,viniciusfogaca@bol.com.br,"Recanto Costa, 25",vespertino,carreiras
+Thales Fogaça,549.816.302-98,Minas Gerais,3,2003-08-14,cardosojoao-gabriel@nogueira.net,"Alameda Sophie Araújo, 615",noturno,github
+Daniela Teixeira,719.463.085-01,Roraima,2,1992-12-18,uda-luz@uol.com.br,"Esplanada de Farias, 84",vespertino,github
+Clara Almeida,197.835.260-30,Ceará,2,2005-05-29,gustavo72@da.br,"Quadra de Ribeiro, 650",noturno,github
+Thiago Gonçalves,546.720.931-07,Rio de Janeiro,1,1993-07-06,calebemonteiro@farias.org,"Campo da Conceição, 6",vespertino,banco de dados
+Ana Beatriz Alves,126.439.085-89,Espírito Santo,3,2000-10-08,caio99@bol.com.br,"Largo Rodrigues, 57",noturno,scrum
+Miguel Ribeiro,608.391.527-95,Pernambuco,2,1998-08-18,nda-cruz@ferreira.br,"Pátio de Caldeira, 20",vespertino,scrum
+Mariana Rocha,754.368.190-01,Rio Grande do Norte,2,1994-09-11,ramosana-clara@bol.com.br,Trevo Luiz Otávio Pires,vespertino,aprofundamento ao python
+Marcelo Moreira,059.678.213-68,Pará,3,1992-01-29,icostela@bol.com.br,"Lago Felipe Pereira, 93",noturno,carreiras
+Lucas Nogueira,138.265.470-71,Espírito Santo,1,1994-04-19,stellaramos@ig.com.br,"Viaduto de Oliveira, 8",vespertino,aprofundamento ao python
+Leandro Peixoto,910.724.368-50,Mato Grosso,3,2004-12-03,lucas14@fernandes.br,"Recanto Carlos Eduardo Castro, 87",vespertino,introdução ao python
+Ana Sophia da Luz,172.869.405-11,Ceará,2,1997-11-23,helenadas-neves@yahoo.com.br,"Sítio de Ferreira, 23",noturno,scrum
+Ian Peixoto,913.748.506-75,Paraíba,1,1997-04-25,da-costaluiza@bol.com.br,"Via Fernandes, 744",matutino,introdução ao python
+Kevin Fernandes,396.502.847-29,Rio de Janeiro,2,1994-04-10,elisagomes@bol.com.br,"Viela Nina Mendes, 2",noturno,aprofundamento ao python
+Daniel Duarte,326.857.049-65,São Paulo,3,2000-10-20,vianasarah@das.br,Via de Moraes,vespertino,github
+Kaique das Neves,153.487.062-80,Alagoas,1,1996-12-21,vcorreia@yahoo.com.br,"Aeroporto de Castro, 84",matutino,carreiras
+Luiz Felipe Cunha,408.356.792-92,Santa Catarina,2,1997-04-29,emanuella18@campos.br,"Área de Costela, 33",matutino,banco de dados
+Eduarda Gonçalves,237.608.541-17,Rio Grande do Sul,2,1996-03-01,ferreiraenzo@yahoo.com.br,"Pátio Vinicius Lopes, 114",noturno,aprofundamento ao python
+Samuel das Neves,791.428.503-04,Pará,3,1999-05-06,marianada-conceicao@ferreira.org,"Conjunto de da Mota, 67",vespertino,github
+Maitê Santos,526.748.910-76,Sergipe,3,1992-09-15,aragaovinicius@cunha.net,"Passarela Freitas, 67",noturno,introdução ao python
+Arthur Melo,812.370.694-40,Santa Catarina,2,1994-10-11,juliabarbosa@yahoo.com.br,"Favela Sarah Lopes, 15",matutino,banco de dados
+Stephany Melo,653.079.184-10,Pernambuco,1,1994-02-06,raquelmoura@lopes.br,"Travessa de Jesus, 18",matutino,github
+Davi Cardoso,913.584.762-09,Distrito Federal,2,1994-03-16,cviana@novaes.net,"Estação de Rocha, 30",vespertino,github
+Anthony da Cruz,453.162.098-42,Goiás,3,2002-08-17,alvesclarice@uol.com.br,"Setor Farias, 30",matutino,scrum
+Leandro Aragão,329.765.184-91,Rio Grande do Sul,1,1996-07-18,brenda25@jesus.br,"Via Almeida, 67",noturno,aprofundamento ao python
+Marcelo Gomes,129.743.058-14,Espírito Santo,2,2005-08-12,vieiramaria-vitoria@castro.br,"Chácara Moreira, 222",vespertino,carreiras
+Murilo Cavalcanti,537.892.164-37,Ceará,1,1998-01-17,luiz-henriquemelo@gmail.com,"Distrito Novaes, 86",vespertino,git
+Pietra Freitas,136.789.425-55,Sergipe,3,2004-10-29,da-cruzmirella@campos.br,"Campo Isaac da Rosa, 326",vespertino,banco de dados
+Augusto Jesus,520.613.897-59,Bahia,2,1993-11-15,julia64@ig.com.br,"Rua de Duarte, 20",vespertino,github
+Antônio Melo,506.174.832-80,Minas Gerais,3,1995-02-07,ana-julia09@goncalves.br,"Campo de das Neves, 33",vespertino,github
+Gustavo Henrique da Cruz,412.753.690-06,Ceará,3,2001-10-29,olivia22@bol.com.br,"Condomínio de da Cunha, 85",noturno,scrum
+Lorenzo Cardoso,725.384.910-88,Amazonas,2,1996-01-30,lorena46@melo.br,"Distrito de da Conceição, 12",noturno,aprofundamento ao python
+Diego Lima,310.942.657-99,Mato Grosso,1,1991-09-16,lara54@bol.com.br,"Travessa Novaes, 26",noturno,git
+Marina Gonçalves,760.431.829-04,Amazonas,3,1990-12-02,amandaoliveira@melo.com,Fazenda Heitor Pereira,vespertino,carreiras
+Valentina Viana,359.810.264-05,Goiás,3,1993-05-17,srodrigues@nunes.br,"Jardim de da Rocha, 69",noturno,scrum
+Maria Vitória Cardoso,364.857.219-91,Amapá,2,2000-11-17,helena39@pires.org,"Morro Alana da Costa, 42",matutino,introdução ao python
+Henrique Caldeira,572.134.698-19,Roraima,3,1996-01-14,mnascimento@santos.com,"Área Maria da Costa, 82",matutino,carreiras
+Diego das Neves,409.328.671-03,Maranhão,2,1995-10-08,pedro88@vieira.com,"Viela Teixeira, 35",vespertino,scrum
+Melissa Sales,435.802.961-24,Paraíba,1,1999-12-02,emanuelly68@souza.com,"Setor Fernandes, 72",noturno,scrum
+Agatha Vieira,049.826.153-06,Mato Grosso do Sul,2,1993-02-24,nogueiraolivia@freitas.net,"Campo Bruno Barbosa, 58",noturno,introdução ao python
+Kevin Cunha,064.791.582-02,Alagoas,1,2003-03-12,maysa08@ig.com.br,"Loteamento Gabrielly Cardoso, 7",vespertino,scrum
+Carolina da Mota,250.763.149-06,Piauí,3,2005-07-06,acardoso@pinto.com,"Campo de Cardoso, 72",matutino,introdução ao python
+Alana Moreira,073.916.524-07,Amazonas,1,1995-11-09,dferreira@pinto.br,"Campo da Conceição, 937",matutino,scrum
+Murilo Barros,402.658.719-30,Goiás,2,1992-03-02,eduardoporto@bol.com.br,"Favela Lucca Azevedo, 6",vespertino,git
+Elisa Correia,614.075.892-02,Alagoas,2,2000-04-22,maria-juliamelo@bol.com.br,"Recanto Breno Nascimento, 3",vespertino,git
+Breno Rezende,713.850.924-32,Acre,1,1995-02-21,luana59@gmail.com,Quadra de Lima,noturno,banco de dados
+Ian Duarte,270.914.856-02,Tocantins,1,1990-11-12,rezendeelisa@goncalves.br,"Fazenda de Campos, 28",matutino,scrum
+Arthur Lima,462.530.187-44,Amapá,3,2003-02-09,salesvitor-hugo@sales.com,"Viela João Pedro Vieira, 7",matutino,scrum
+Thales Cavalcanti,673.592.804-00,Alagoas,2,2003-01-06,arthurda-luz@bol.com.br,"Trecho de Costa, 94",noturno,github
+Pedro Miguel Oliveira,631.802.495-60,Rondônia,2,1997-06-11,ferreiraandre@bol.com.br,"Favela de Pires, 525",matutino,banco de dados
+Vitória Barros,170.862.934-31,Distrito Federal,2,1992-11-13,bernardoda-cruz@cardoso.br,"Parque de Silveira, 943",vespertino,github
+Mariana Sales,495.316.082-70,Rio Grande do Norte,2,2000-04-04,uda-conceicao@monteiro.br,"Jardim de Jesus, 77",vespertino,scrum
+Diego Silva,183.524.690-70,Goiás,3,1997-08-20,isales@bol.com.br,"Esplanada Aragão, 89",vespertino,carreiras
+Stella da Costa,075.429.631-80,Distrito Federal,3,2005-08-04,fmonteiro@dias.com,Residencial de Duarte,noturno,introdução ao python
+Bianca Moura,839.157.240-41,Acre,2,2002-09-22,pedro-henriqueoliveira@bol.com.br,"Vereda Melo, 36",noturno,github
+Enzo Gabriel Araújo,154.390.768-75,Maranhão,3,1999-06-04,xpereira@moraes.br,"Distrito de Correia, 742",vespertino,github
+Vitor Hugo das Neves,419.872.603-50,Rio Grande do Sul,2,1996-03-11,frodrigues@yahoo.com.br,"Residencial da Costa, 41",vespertino,introdução ao python
+Esther Nunes,197.564.803-00,Santa Catarina,3,2005-05-12,milena41@ig.com.br,"Quadra de Mendes, 27",vespertino,github
+Davi Farias,528.073.961-86,Pernambuco,1,1992-06-21,maria-fernandagomes@goncalves.br,Núcleo de Moura,noturno,git
+Maria Clara Freitas,275.649.801-76,Mato Grosso,1,2004-12-31,da-motanicole@fernandes.br,"Esplanada de Cardoso, 68",vespertino,scrum
+Sarah Silva,970.824.163-69,Mato Grosso do Sul,3,2002-11-17,da-costavitor@almeida.com,"Morro de da Conceição, 92",matutino,carreiras
+Bernardo Silveira,324.106.758-08,Roraima,3,1996-11-16,marina07@uol.com.br,"Aeroporto Erick Martins, 78",vespertino,aprofundamento ao python
+João Felipe Martins,361.879.024-40,Mato Grosso,2,2002-04-26,salesandre@yahoo.com.br,"Praia Luiz Miguel Peixoto, 33",vespertino,github
+Enzo Gabriel Ramos,109.483.526-98,Paraná,2,2001-05-21,da-rosaagatha@nascimento.com,"Condomínio Maysa Souza, 99",noturno,github
+Eloah Aragão,546.398.027-65,Rio de Janeiro,2,1993-07-09,cpinto@fernandes.br,"Jardim Martins, 23",vespertino,banco de dados
+Maysa Azevedo,284.397.056-38,Mato Grosso do Sul,1,2005-04-14,guilherme96@ig.com.br,"Setor Duarte, 3",vespertino,git
+Paulo da Cunha,512.480.793-88,Goiás,2,2003-07-22,da-rochadaniel@goncalves.br,"Viaduto Rodrigues, 700",noturno,introdução ao python
+Bruna Porto,879.402.316-69,Ceará,1,2000-01-03,arthur41@moraes.br,"Praça Cavalcanti, 5",vespertino,scrum
+Emanuel Dias,491.328.670-69,Amapá,2,1999-04-01,aliciamartins@freitas.com,"Viaduto Milena da Costa, 85",vespertino,aprofundamento ao python
+Luna Lopes,830.195.476-01,Rondônia,2,2003-10-24,pietra55@hotmail.com,"Trecho de Melo, 75",noturno,git
+Diego Teixeira,983.206.751-03,Amazonas,1,1992-08-12,brenomoreira@teixeira.br,"Setor Maitê Novaes, 2",vespertino,git
+Levi Castro,760.219.548-58,Amazonas,2,2005-08-10,juliada-cunha@hotmail.com,"Favela Sophia da Conceição, 87",matutino,banco de dados
+Murilo Oliveira,960.521.487-30,Piauí,2,2003-12-18,emanuelnovaes@nunes.br,"Esplanada de Cavalcanti, 57",noturno,github
+Maria Julia Caldeira,715.602.943-61,Acre,2,1999-02-19,heloisa82@caldeira.br,"Quadra Joana Farias, 83",matutino,banco de dados
+Ana Luiza Cardoso,098.463.721-40,Mato Grosso do Sul,3,1998-11-09,cardosoraquel@bol.com.br,Núcleo Clara Nascimento,vespertino,banco de dados
+Bernardo Silveira,872.403.615-35,Santa Catarina,3,2003-09-23,stephany67@da.br,Loteamento Raul Teixeira,noturno,git
+Sophie Castro,931.428.057-88,Acre,3,1999-06-13,otavioteixeira@gmail.com,"Quadra de Cardoso, 90",vespertino,carreiras
+Davi Lucca Ribeiro,457.289.103-60,Goiás,3,2001-04-10,guilhermeda-rosa@nascimento.net,"Loteamento Cardoso, 57",vespertino,github
+Yuri Rodrigues,354.187.602-62,Mato Grosso do Sul,2,2001-09-17,castrobarbara@yahoo.com.br,"Condomínio Freitas, 51",vespertino,aprofundamento ao python
+Fernanda Monteiro,729.318.064-04,Mato Grosso do Sul,2,1991-03-25,ffreitas@hotmail.com,"Feira de da Rosa, 72",vespertino,introdução ao python
+Alícia Fogaça,249.715.630-16,Tocantins,1,1995-09-15,rcosta@da.net,Esplanada Lívia Campos,matutino,aprofundamento ao python
+Maria Vitória da Mota,946.235.801-05,Mato Grosso do Sul,1,1993-07-02,sophie19@ribeiro.br,Estação Emanuel Souza,noturno,banco de dados
+Lucca Melo,736.248.519-00,Amazonas,1,1992-12-24,jramos@ig.com.br,"Esplanada Cavalcanti, 4",vespertino,aprofundamento ao python
+Isabella Nogueira,674.921.580-76,Paraíba,1,1991-04-03,limakamilly@bol.com.br,"Avenida Cavalcanti, 68",noturno,introdução ao python
+Alexia Pires,359.126.084-33,Mato Grosso do Sul,1,2003-04-07,barrosrebeca@da.org,"Campo Nicolas Peixoto, 158",noturno,aprofundamento ao python
+Stella da Cruz,810.723.659-95,Bahia,1,1999-09-15,renan62@almeida.net,"Avenida Luiz Fernando Aragão, 84",matutino,aprofundamento ao python
+Brenda Viana,642.035.819-15,Amazonas,1,1995-10-15,dcunha@hotmail.com,"Estação Eduarda da Mata, 13",vespertino,github
+Maria Luiza Souza,723.891.654-19,Acre,1,1994-09-01,juanfogaca@bol.com.br,"Lago Bárbara Monteiro, 40",matutino,scrum
+Rebeca Cavalcanti,304.821.956-06,Acre,2,2001-04-27,freitaskevin@hotmail.com,Rua Silveira,noturno,github
+Eduardo Oliveira,342.617.508-80,Mato Grosso do Sul,1,2000-05-28,jda-paz@cavalcanti.br,"Setor Pires, 2",vespertino,git
+Gustavo Cardoso,931.287.405-50,Rio Grande do Norte,1,1997-08-08,ana86@almeida.com,"Estrada Ryan Peixoto, 292",vespertino,banco de dados
+Yuri da Luz,360.172.549-52,São Paulo,1,1993-07-06,cunhaluana@bol.com.br,"Esplanada Leonardo Melo, 317",vespertino,scrum
+Murilo Castro,643.918.507-10,Rio de Janeiro,2,1992-09-24,marcelaferreira@ig.com.br,"Estação Rezende, 7",matutino,scrum
+Caio Ferreira,058.423.719-79,Santa Catarina,3,2001-02-06,maysacosta@lopes.br,Passarela de Campos,matutino,github
+Paulo Santos,481.632.970-69,Pará,1,1997-07-04,mourathales@gomes.net,Via Caldeira,vespertino,github
+Rafael Melo,681.970.243-40,Bahia,2,1993-09-08,maria-sophiamoura@ramos.com,"Conjunto Maria Julia Rocha, 6",vespertino,git
+Sarah Barros,975.208.163-03,Espírito Santo,3,1991-07-08,anthony11@mendes.com,"Setor de Almeida, 891",noturno,carreiras
+Juan Aragão,302.986.541-05,Rio de Janeiro,1,1998-09-22,melissa71@carvalho.com,Passarela de Campos,matutino,git
+João Pedro Santos,371.092.658-03,Roraima,3,1991-10-26,eduardanovaes@lopes.com,"Colônia Mendes, 170",vespertino,banco de dados
+Lara das Neves,759.680.324-56,Rio Grande do Norte,2,1991-04-28,danielrezende@cavalcanti.net,"Colônia Benício Silveira, 3",vespertino,github
+Lucas Moraes,476.329.518-73,São Paulo,3,1996-07-23,caueribeiro@hotmail.com,"Conjunto de Silveira, 293",vespertino,banco de dados
+Thales Mendes,312.678.094-69,Pará,1,1997-12-13,lorena62@nogueira.br,"Largo Olivia Carvalho, 4",noturno,carreiras
+Ana Beatriz Cunha,185.927.043-32,Alagoas,2,1993-04-23,antoniocunha@bol.com.br,"Esplanada de Caldeira, 39",vespertino,introdução ao python
+Rodrigo Carvalho,031.856.472-62,Ceará,2,2004-11-13,eloah41@araujo.com,"Lagoa Pinto, 390",vespertino,banco de dados
+Ana Laura Barbosa,529.018.763-40,São Paulo,3,1995-04-18,tcardoso@ig.com.br,"Lago Manuela da Luz, 27",vespertino,banco de dados
+Eduarda Jesus,240.716.835-62,Bahia,2,2000-11-01,da-cruzclarice@da.com,"Estrada da Cunha, 8",matutino,introdução ao python
+Cauã Melo,254.086.379-56,Rio Grande do Sul,1,1994-08-30,erickgoncalves@costa.br,"Vereda Azevedo, 11",noturno,introdução ao python
+Enzo Gabriel Souza,627.451.098-20,Espírito Santo,2,1995-12-26,kaiqueda-rosa@da.net,"Viaduto Castro, 55",vespertino,github
+Ana Beatriz Carvalho,021.835.469-05,Bahia,3,1996-03-26,joana53@castro.com,"Lagoa da Conceição, 32",noturno,carreiras
+Anthony Moraes,364.857.291-19,Amapá,2,1996-09-27,lcunha@ig.com.br,"Ladeira Nunes, 11",vespertino,carreiras
+Alexia Moura,129.653.480-42,Mato Grosso,1,1995-06-17,enogueira@hotmail.com,"Estrada Carolina Souza, 63",noturno,scrum
+Ana Sophia Barros,478.392.051-60,Santa Catarina,3,2004-01-30,santospaulo@bol.com.br,Quadra de da Mata,vespertino,github
+Pietro Jesus,123.498.765-19,Ceará,1,1992-07-08,qlopes@hotmail.com,"Aeroporto de Campos, 14",vespertino,scrum
+Luiz Felipe Oliveira,123.745.986-91,Paraíba,1,1999-02-25,freitasleticia@azevedo.com,"Avenida de Pinto, 9",vespertino,banco de dados
+Ana Luiza Moraes,517.380.249-97,Amapá,2,1997-09-25,biancada-luz@campos.net,"Sítio João Guilherme Silveira, 89",matutino,carreiras
+Bianca Gonçalves,739.184.560-48,Mato Grosso do Sul,2,1991-02-04,bfreitas@uol.com.br,"Praia Yago Santos, 6",vespertino,banco de dados
+Júlia Moraes,573.482.910-23,Amapá,1,2002-06-30,doliveira@hotmail.com,"Colônia de Araújo, 7",noturno,carreiras
+Manuela Santos,842.315.079-88,Piauí,3,2003-11-10,lorenada-mata@gomes.com,Ladeira Cardoso,noturno,github
+Erick Nogueira,176.583.042-71,Distrito Federal,3,2002-02-05,thales07@caldeira.com,"Vereda Alves, 11",matutino,aprofundamento ao python
+Fernanda Teixeira,605.942.731-61,Rio de Janeiro,1,1991-11-29,melocalebe@martins.net,"Favela Bárbara Nogueira, 24",noturno,introdução ao python
+Amanda Moreira,973.204.856-56,Piauí,2,2004-04-17,nascimentoalexia@hotmail.com,"Praia da Conceição, 10",matutino,scrum
+Maria Moraes,875.623.041-90,Paraná,3,1995-08-16,wpinto@hotmail.com,"Estrada Nascimento, 33",matutino,git
+Raquel Costa,856.742.903-00,Rio de Janeiro,1,2003-08-31,rrezende@ig.com.br,"Largo Ribeiro, 75",matutino,github
+Emilly Nascimento,951.842.367-91,Amazonas,3,2003-10-11,da-rochacaua@hotmail.com,"Alameda Kaique Gomes, 71",matutino,introdução ao python
+Caio Nogueira,197.830.562-12,Amazonas,2,1991-04-01,raquelrocha@gmail.com,"Rua Caio Lopes, 93",vespertino,banco de dados
+Danilo Carvalho,091.247.368-13,Paraná,2,1998-07-08,yasminsantos@uol.com.br,"Colônia Lorenzo Lima, 13",vespertino,git
+Ana Carolina Alves,421.695.378-64,Amazonas,3,1998-05-02,cteixeira@uol.com.br,"Rodovia Pinto, 20",matutino,aprofundamento ao python
+Carolina Moraes,523.186.497-82,Rio de Janeiro,2,2003-09-16,ugomes@moraes.org,Área Santos,matutino,scrum
+Gustavo Lima,841.352.076-26,Minas Gerais,3,1998-01-30,bruno92@uol.com.br,"Estação Fogaça, 11",vespertino,introdução ao python
+Lucas Moura,065.179.382-30,Rondônia,2,2005-09-27,da-conceicaoamanda@santos.br,Lagoa Carvalho,noturno,introdução ao python
+Thales Jesus,563.197.804-01,Rio Grande do Norte,3,1999-09-30,brenoramos@ig.com.br,"Fazenda de Sales, 5",noturno,carreiras
+Fernando Ferreira,548.309.617-75,Sergipe,3,1997-12-26,sophie42@rocha.br,"Distrito Davi Lucas Santos, 98",matutino,github
+Luiz Fernando Caldeira,713.048.256-71,Acre,3,1999-08-14,ramosalana@correia.org,"Quadra Sophie Pinto, 38",vespertino,github
+Maria Clara Pinto,571.624.380-08,Rondônia,3,2005-03-11,wdas-neves@ig.com.br,"Rua Renan Ferreira, 66",vespertino,banco de dados
+Arthur Souza,813.279.054-50,Alagoas,3,1999-09-19,isadoraviana@silveira.com,"Colônia de da Mata, 89",matutino,scrum
+Maria Eduarda Moreira,486.175.390-20,Tocantins,2,1996-05-16,diasemanuelly@gomes.br,"Viela Ribeiro, 76",noturno,banco de dados
+Isabella Cunha,975.260.834-56,São Paulo,2,1992-01-24,lavinia46@da.net,Parque Silva,vespertino,banco de dados
+Gustavo Henrique Silva,120.659.783-68,Roraima,2,1999-06-02,vicente94@fernandes.br,Residencial Martins,vespertino,git
+Noah Viana,263.054.978-00,Tocantins,2,1999-08-28,benjaminlima@souza.br,"Área Eloah da Cunha, 51",matutino,carreiras
+Ana Carolina Peixoto,871.420.936-50,Mato Grosso do Sul,2,1999-01-18,rafaelaazevedo@da.br,"Condomínio Mariana Rezende, 15",noturno,aprofundamento ao python
+Pedro Cardoso,957.402.681-76,Amazonas,3,2004-06-06,duarteyuri@bol.com.br,"Vereda Teixeira, 81",matutino,introdução ao python
+Ryan da Conceição,205.194.768-67,Pará,3,2004-03-15,da-rochagiovanna@santos.br,"Passarela Mendes, 86",vespertino,scrum
+Sophia Cardoso,298.301.654-42,Alagoas,2,1991-02-28,peixotoalexia@da.net,"Quadra Silveira, 14",noturno,introdução ao python
+Joana Ferreira,984.203.561-15,São Paulo,1,2005-07-02,pedro-miguel74@da.net,"Trecho Rafael da Rosa, 2",matutino,aprofundamento ao python
+Amanda Cavalcanti,508.293.147-41,Paraná,3,1994-01-30,icampos@gmail.com,Favela Maria Luiza Rezende,noturno,scrum
+Sabrina da Cruz,579.108.324-60,Tocantins,2,2004-10-06,silvagabriel@uol.com.br,Rodovia Ramos,vespertino,carreiras
+Enrico Azevedo,078.925.416-67,Rio de Janeiro,2,1993-01-10,alexandrepereira@yahoo.com.br,"Rodovia Araújo, 13",matutino,git
+Isabelly Barros,375.812.960-59,Roraima,3,1996-10-20,ysales@aragao.br,"Sítio Gomes, 60",vespertino,github
+Murilo Cardoso,096.418.237-87,Piauí,1,2003-12-31,emanuelsales@bol.com.br,"Vale de Cunha, 16",noturno,github
+Caroline Moraes,364.792.018-50,Mato Grosso,2,2005-07-22,alvesandre@uol.com.br,"Quadra de Castro, 8",matutino,scrum
+Isabel Nunes,780.936.125-21,Ceará,1,2001-07-10,giovannada-rosa@ig.com.br,"Praça Ferreira, 555",vespertino,github
+Carlos Eduardo Sales,819.706.342-78,Tocantins,1,1997-09-22,maria-luizanogueira@uol.com.br,"Ladeira Rocha, 24",vespertino,aprofundamento ao python
+Letícia Rezende,897.436.210-40,Santa Catarina,1,1998-08-18,matheusda-luz@nogueira.com,Jardim Almeida,vespertino,aprofundamento ao python
+Ana Sophia Gonçalves,981.726.435-19,Pernambuco,1,2000-03-21,fogacaisabel@hotmail.com,"Favela Vitor Cardoso, 77",noturno,scrum
+Luigi Cunha,273.084.659-00,Amazonas,2,1995-06-25,nnovaes@bol.com.br,"Núcleo da Costa, 5",noturno,introdução ao python
+Vitor Gabriel das Neves,013.972.458-32,Rio Grande do Sul,3,2002-01-01,lpires@da.com,"Largo de Carvalho, 5",matutino,aprofundamento ao python
+Ana Júlia Rezende,758.302.619-95,Mato Grosso do Sul,3,2005-07-05,samuel60@costela.com,"Setor Nascimento, 39",vespertino,git
+João Lucas Cunha,842.637.059-47,Amapá,3,1996-11-30,rafaela72@da.com,Recanto Nicole da Paz,vespertino,carreiras
+Enrico Pereira,945.368.207-10,Alagoas,3,2003-07-15,souzajuliana@fernandes.org,"Passarela Carolina Jesus, 453",vespertino,introdução ao python
+Ana Vitória Ramos,074.963.821-40,Pará,2,2005-10-25,maria-sophiaporto@ig.com.br,"Lago Martins, 466",vespertino,scrum
+Bryan Fogaça,306.812.594-42,Rio Grande do Norte,2,1993-08-01,maite51@uol.com.br,"Estação Milena Lopes, 467",matutino,introdução ao python
+Enzo Gabriel Carvalho,471.620.589-49,Rio de Janeiro,3,1998-09-22,benjamin26@yahoo.com.br,"Viela de da Conceição, 9",vespertino,banco de dados
+Heitor Rocha,981.543.206-06,Distrito Federal,3,1992-09-14,evelyn80@vieira.br,"Favela Pinto, 40",noturno,banco de dados
+Daniel Correia,806.579.241-30,Alagoas,1,1998-07-16,hcastro@oliveira.br,"Alameda Enzo Gabriel Silva, 42",noturno,banco de dados
+Benício Rezende,940.583.276-00,Roraima,3,2004-06-07,ana-julia83@gmail.com,"Conjunto João Lima, 6",matutino,scrum
+Bernardo Nascimento,043.572.896-29,Acre,2,1996-02-01,caldeirarodrigo@dias.br,"Parque Julia Rocha, 92",noturno,carreiras
+Thomas da Conceição,769.135.048-10,Rondônia,1,2005-09-30,rochaana-clara@das.net,"Lagoa de Campos, 13",matutino,aprofundamento ao python
+Nicole Lima,301.968.524-98,Santa Catarina,1,1991-07-09,mporto@hotmail.com,"Travessa Luiz Felipe Pires, 535",noturno,banco de dados
+Yasmin Cardoso,248.153.907-97,Bahia,3,2002-12-09,barrosbenicio@hotmail.com,Fazenda Lívia Melo,vespertino,github
+Olivia Pinto,074.928.561-30,Mato Grosso,1,1992-12-19,vinicius96@yahoo.com.br,"Trecho Eloah Freitas, 15",vespertino,scrum
+Benjamin Pires,853.461.279-09,Rio de Janeiro,1,1990-11-28,vitor97@uol.com.br,"Colônia Duarte, 80",noturno,carreiras
+Laís Campos,759.213.648-19,Tocantins,3,1996-03-06,costamaria-cecilia@ribeiro.com,"Núcleo Gabriel Vieira, 769",noturno,github
+Rodrigo Martins,428.531.960-89,Mato Grosso do Sul,2,1997-08-20,salestheo@yahoo.com.br,"Setor da Cunha, 72",vespertino,github
+João Vitor Rodrigues,380.149.726-78,Pará,3,1997-09-18,hcampos@bol.com.br,"Área Yuri Lima, 70",noturno,introdução ao python
+Luiz Henrique Sales,463.192.850-60,Sergipe,2,1991-11-21,carvalhomiguel@cavalcanti.com,"Conjunto Luna Pinto, 9",noturno,introdução ao python
+Ana Lívia Caldeira,970.182.645-02,Mato Grosso,2,2001-06-16,gomesmirella@silva.net,"Núcleo de das Neves, 13",noturno,carreiras
+Melissa Cardoso,972.038.546-47,Espírito Santo,1,2000-06-16,anthonyfarias@farias.br,"Aeroporto de Monteiro, 90",noturno,banco de dados
+Eduardo Gonçalves,901.527.364-25,Espírito Santo,2,1998-02-05,enzo-gabriel15@bol.com.br,"Fazenda Gomes, 44",matutino,carreiras
+Bárbara Sales,937.245.106-16,Paraíba,1,2003-06-23,benjamin89@santos.br,"Avenida Cavalcanti, 50",vespertino,carreiras
+Kevin Barros,163.742.095-16,Rio Grande do Sul,2,1995-02-24,sarah66@uol.com.br,"Trevo de Pereira, 87",matutino,carreiras
+Lucas Gabriel Gonçalves,586.123.409-42,Tocantins,3,1991-03-21,enzo-gabriel74@oliveira.net,"Passarela Cardoso, 87",noturno,carreiras
+João Felipe Duarte,685.173.294-73,Sergipe,1,2002-10-17,stella77@da.com,Chácara Alana Rodrigues,noturno,aprofundamento ao python
+Gabrielly Cunha,123.095.874-60,Roraima,2,2002-02-03,pedro-henrique91@ig.com.br,"Área Almeida, 21",vespertino,github
+Leandro da Rocha,438.915.706-00,Santa Catarina,1,2003-05-23,da-rosajoao-guilherme@da.net,Passarela Cecília Costela,noturno,carreiras
+Thomas Nascimento,831.459.267-64,Ceará,1,1996-10-13,teixeiragabrielly@da.br,Praia de Cardoso,matutino,carreiras
+Rafaela Peixoto,572.130.984-97,Pernambuco,3,1994-10-26,ecastro@viana.com,"Condomínio de da Mota, 54",vespertino,aprofundamento ao python
+Alana da Cruz,237.581.490-88,Rio Grande do Sul,3,1995-01-30,davi-luizmelo@bol.com.br,"Pátio de Vieira, 392",vespertino,introdução ao python
+Danilo Duarte,902.516.437-43,Acre,1,1994-03-15,zcavalcanti@cardoso.com,Sítio Gabriel das Neves,matutino,git
+Yago Santos,239.607.815-12,Alagoas,1,1995-08-05,camposbruno@gmail.com,Feira Maria Eduarda Costa,noturno,git
+Larissa da Rosa,534.708.261-53,Pernambuco,3,1996-08-22,costelajoana@uol.com.br,"Rua Gabriela Alves, 541",vespertino,git
+Fernanda Monteiro,278.546.031-62,Maranhão,1,1994-12-16,dcosta@ig.com.br,"Jardim Farias, 87",matutino,git
+Lucas Gabriel Monteiro,962.735.810-02,Roraima,3,1999-05-07,sbarbosa@ig.com.br,"Praça de Farias, 7",matutino,git
+Davi Lucca Caldeira,048.916.573-75,Paraná,2,1996-02-21,irezende@nascimento.net,"Alameda Mendes, 736",matutino,git
+Vitor Gabriel da Conceição,034.716.258-44,São Paulo,3,1993-08-26,barrosmilena@moura.br,"Morro de Gomes, 9",noturno,aprofundamento ao python
+Eduarda Alves,863.701.592-12,Mato Grosso do Sul,2,2004-02-26,isabella15@yahoo.com.br,Ladeira Araújo,noturno,carreiras
+Sarah Lima,724.361.805-71,Sergipe,3,1997-03-16,bjesus@mendes.br,"Trecho Paulo Aragão, 3",noturno,banco de dados
+Larissa Melo,274.908.153-04,Piauí,3,2000-10-02,valentina72@farias.br,"Fazenda Gabriel das Neves, 91",matutino,scrum
+Sophia das Neves,923.840.567-00,Sergipe,3,1994-10-25,aalmeida@bol.com.br,"Pátio de Viana, 80",noturno,carreiras
+Lorenzo Cardoso,641.389.705-84,Amazonas,1,1997-07-26,emillydas-neves@bol.com.br,"Aeroporto Gomes, 42",vespertino,github
+João Lopes,093.725.684-65,Mato Grosso,3,1992-09-23,ana-beatriz65@yahoo.com.br,Favela Gomes,vespertino,carreiras
+Joaquim Sales,801.653.742-17,Tocantins,2,1996-07-12,nicole67@rodrigues.br,Lagoa Ana Laura Peixoto,matutino,scrum
+Emilly Gomes,649.321.785-73,Minas Gerais,1,2000-05-19,cardosomilena@hotmail.com,"Feira de Ramos, 14",matutino,carreiras
+Thales Moreira,132.964.875-73,Piauí,1,1997-08-19,esouza@hotmail.com,Vereda Peixoto,matutino,scrum
+Rafaela Farias,431.768.052-17,Espírito Santo,2,1994-05-12,maria-eduarda73@goncalves.com,"Vale de da Cruz, 6",noturno,carreiras
+Júlia Cardoso,570.124.369-99,Amapá,2,2002-12-27,teixeiraluiz-felipe@goncalves.org,"Vale de Barbosa, 91",vespertino,scrum
+Vinicius Gonçalves,836.504.921-05,Mato Grosso,1,1995-05-20,renanaraujo@rezende.com,"Feira Lívia da Cruz, 71",matutino,banco de dados
+Ana Carolina da Conceição,405.628.391-51,Santa Catarina,3,1994-01-29,nbarros@da.br,"Esplanada de Nogueira, 48",vespertino,aprofundamento ao python
+Luiz Gustavo Araújo,274.139.085-14,Mato Grosso do Sul,3,1998-10-27,santosrafael@pinto.com,"Sítio de Nunes, 98",matutino,carreiras
+Henrique Viana,105.972.846-01,Minas Gerais,3,1999-01-01,santosamanda@barros.br,"Trevo Pedro Henrique Castro, 130",noturno,banco de dados
+Marina Alves,867.213.954-28,São Paulo,2,1998-09-02,eloahlima@gmail.com,"Área de Campos, 652",noturno,scrum
+Lorena Souza,235.749.816-19,Minas Gerais,2,1995-03-28,cardosoalexia@silveira.com,"Rua Nicolas Campos, 2",noturno,git
+Marcela Costa,012.539.867-03,Amazonas,1,2004-12-06,evelynda-mata@uol.com.br,Largo Lima,matutino,banco de dados
+Gustavo Henrique da Paz,534.987.621-09,Pará,2,2003-10-22,tporto@bol.com.br,"Avenida de Martins, 31",matutino,git
+Rebeca Viana,103.492.756-61,Pernambuco,3,2003-12-01,enzoda-mota@fogaca.br,Avenida da Rocha,matutino,scrum
+Olivia Nogueira,904.713.628-40,Acre,2,1998-07-23,lcosta@ramos.br,"Favela Moraes, 36",noturno,scrum
+Camila Costela,190.654.378-00,Espírito Santo,1,2003-09-05,almeidaana-julia@yahoo.com.br,"Favela Barbosa, 47",matutino,git
+Luiz Gustavo da Rocha,913.740.285-41,Amazonas,3,2005-04-11,ana-julia97@viana.com,"Aeroporto de Castro, 746",matutino,carreiras
+Levi Rodrigues,348.109.672-04,Pará,3,1994-01-01,bernardopeixoto@fernandes.com,"Travessa Lopes, 81",vespertino,scrum
+Luna Caldeira,640.281.573-07,Minas Gerais,3,2003-12-17,rebecacastro@hotmail.com,Travessa de Correia,matutino,git
+Yuri Nunes,306.714.928-96,Roraima,2,1993-03-21,maria-vitorialima@moreira.br,"Quadra Caroline Viana, 15",noturno,git
+Emanuel Carvalho,604.291.578-94,Acre,3,2005-03-21,levi86@rezende.br,"Chácara Barbosa, 2",vespertino,git
+Igor Novaes,302.685.174-44,Minas Gerais,2,1993-10-22,theomelo@da.br,"Viaduto de Souza, 68",noturno,banco de dados
+Pedro da Rosa,209.348.517-60,Distrito Federal,1,1998-05-19,oalmeida@uol.com.br,"Loteamento Rocha, 4",matutino,git
+Davi Luiz Nunes,762.430.195-43,Rio Grande do Norte,2,1999-11-16,castroluiz-felipe@hotmail.com,"Loteamento Maria Cecília Sales, 23",vespertino,aprofundamento ao python
+Diogo Moura,619.204.578-01,Pernambuco,3,1998-01-17,eribeiro@fogaca.com,"Setor Cunha, 902",noturno,aprofundamento ao python
+Maysa Barros,752.910.684-85,Pernambuco,1,2004-05-15,nalmeida@ferreira.com,"Rodovia Ana Clara da Mata, 20",matutino,git
+Enzo Gabriel Nogueira,687.951.403-01,Rio de Janeiro,2,1993-01-07,maysa12@gmail.com,"Largo de Dias, 24",matutino,git
+Caio Castro,216.809.435-70,Pará,1,2002-03-30,otaviocorreia@hotmail.com,"Viaduto Gonçalves, 94",vespertino,carreiras
+Marcela Fogaça,620.358.417-71,Acre,2,1993-11-22,sarah88@yahoo.com.br,"Viaduto Nascimento, 23",matutino,introdução ao python
+Davi Luiz Teixeira,806.597.321-30,Roraima,3,2002-12-12,ndias@monteiro.br,"Trevo de da Rosa, 48",matutino,banco de dados
+Fernando Almeida,231.805.764-80,Pernambuco,1,1999-07-14,luiz-miguel85@rodrigues.br,"Rodovia de da Rosa, 6",vespertino,carreiras
+Pedro Henrique Oliveira,538.792.146-46,Rio de Janeiro,2,1993-05-05,azevedoluana@jesus.br,"Chácara Moreira, 69",matutino,git
+Brenda Cunha,274.509.136-07,Minas Gerais,3,1993-04-23,bernardo38@silva.com,Largo de da Paz,noturno,scrum
+Julia da Paz,216.759.804-11,Maranhão,1,2002-03-11,raquel31@bol.com.br,"Residencial Barros, 20",vespertino,aprofundamento ao python
+Leonardo Cardoso,387.412.609-96,Tocantins,2,2000-09-06,da-cunhaagatha@gmail.com,"Praça Murilo Souza, 67",vespertino,banco de dados
+Giovanna Sales,341.069.527-34,Rio Grande do Norte,1,2004-06-08,almeidahelena@gmail.com,"Residencial Eloah Campos, 739",vespertino,introdução ao python
+Maysa Ribeiro,601.238.549-89,Roraima,1,1996-04-06,stephanydias@bol.com.br,"Setor de Pereira, 87",vespertino,introdução ao python
+João Vitor Rocha,504.271.638-62,Pernambuco,1,1991-04-02,alveslaura@hotmail.com,"Vale de da Costa, 1",noturno,carreiras
+Igor da Paz,178.950.624-76,Alagoas,3,1995-06-07,mda-mata@bol.com.br,"Trevo Caio da Luz, 75",vespertino,introdução ao python
+Eduarda Oliveira,731.480.659-48,Rio Grande do Sul,2,1996-02-21,ubarros@hotmail.com,"Recanto Araújo, 67",vespertino,scrum
+Joana das Neves,819.053.467-00,Paraíba,2,1992-07-19,souzaleandro@da.br,"Campo Souza, 134",noturno,git
+Benício Moreira,742.316.958-73,São Paulo,3,2003-03-23,rochamaria-vitoria@yahoo.com.br,"Travessa de Costela, 6",noturno,github
+Davi Lucas Sales,952.138.076-40,Acre,2,1998-05-30,naraujo@da.br,"Lago Cardoso, 3",noturno,github
+Carolina Jesus,078.136.924-03,Distrito Federal,1,2003-10-26,fernandopeixoto@uol.com.br,"Esplanada de Aragão, 37",noturno,github
+Calebe Freitas,465.872.109-02,Rio Grande do Norte,2,1993-12-31,luiz-fernandoda-cunha@ig.com.br,"Pátio Emanuel Sales, 39",vespertino,git
+Erick Ferreira,942.608.351-06,Mato Grosso do Sul,3,1996-12-26,alanafernandes@ig.com.br,"Esplanada de Moraes, 10",noturno,aprofundamento ao python
+João Vitor Mendes,029.843.176-96,Minas Gerais,2,1998-07-11,jpeixoto@pereira.br,"Jardim Cardoso, 91",matutino,carreiras
+Alexia Rodrigues,275.984.106-58,Roraima,3,1991-02-02,mariacarvalho@moura.org,"Esplanada de Pinto, 11",vespertino,introdução ao python
+Stella Castro,410.576.398-93,Piauí,2,1999-03-15,gabrielly20@hotmail.com,"Setor Lorena Mendes, 72",matutino,scrum
+Natália Gomes,120.683.549-42,Piauí,3,1996-07-18,silvasofia@ig.com.br,"Estação Matheus Nunes, 19",noturno,banco de dados
+Evelyn Cavalcanti,257.843.690-83,Mato Grosso do Sul,1,1991-10-14,barrosluiz-gustavo@da.br,"Colônia de da Cunha, 24",vespertino,banco de dados
+Benício Cunha,403.618.752-07,Sergipe,3,1991-08-09,aragaomaite@hotmail.com,"Trecho de Lopes, 6",matutino,carreiras
+Yago Viana,340.517.286-17,Pernambuco,3,2000-07-03,da-rosaana@pereira.br,"Esplanada João Guilherme Pires, 13",vespertino,aprofundamento ao python
+Eloah Alves,569.278.401-76,Rio de Janeiro,3,2002-08-22,silvaalexia@aragao.com,Lago de Lima,noturno,scrum
+Mariane Peixoto,670.352.819-59,Santa Catarina,1,1995-09-15,miguelaragao@hotmail.com,"Morro Agatha da Rosa, 63",vespertino,aprofundamento ao python
+Lucas Gabriel Barros,574.108.369-20,Paraíba,1,1999-01-19,eda-luz@jesus.org,"Fazenda Marcos Vinicius Pinto, 196",noturno,banco de dados
+Arthur Rodrigues,651.978.204-11,Amazonas,3,1994-11-05,enricoribeiro@silveira.br,Travessa Eduardo Martins,noturno,carreiras
+Raquel Duarte,274.058.936-00,Goiás,1,1994-04-28,xfogaca@ig.com.br,"Rua da Mata, 953",vespertino,github
+Enzo Gabriel da Mota,907.183.624-03,Santa Catarina,3,1991-06-07,da-cunhaclara@yahoo.com.br,"Pátio de da Mota, 81",matutino,github
+Felipe das Neves,957.064.813-93,Pará,2,2000-12-19,gustavo76@da.br,"Campo Peixoto, 90",matutino,carreiras
+Leonardo Silva,572.149.638-09,Paraná,2,2001-04-14,jjesus@novaes.com,"Campo Gomes, 521",noturno,git
+Pedro Henrique Moura,197.520.643-61,Paraíba,2,1998-11-15,oliveiracaua@sales.br,"Viela Cardoso, 6",matutino,introdução ao python
+Murilo Fernandes,768.031.452-71,Rio de Janeiro,2,1999-03-06,pfogaca@uol.com.br,"Esplanada Luiz Felipe Moreira, 91",noturno,carreiras
+Lucca Teixeira,463.709.512-34,Rio Grande do Sul,2,2003-01-19,brunosilva@goncalves.net,"Condomínio Pedro da Rocha, 2",noturno,introdução ao python
+Raquel Moreira,219.630.875-77,Amazonas,1,2000-01-11,beatriz25@da.com,"Campo Barbosa, 5",vespertino,aprofundamento ao python
+Francisco da Paz,759.013.264-07,Pernambuco,3,1992-09-17,zaraujo@da.br,"Quadra Thales Martins, 42",vespertino,git
+João Pires,268.517.430-35,Santa Catarina,3,1995-04-20,emanuel17@hotmail.com,"Área Renan Santos, 52",vespertino,scrum
+Marcela Araújo,604.289.375-00,Alagoas,2,1994-01-07,da-motaeduarda@santos.com,"Trecho da Luz, 66",vespertino,git
+Isabel da Cruz,790.615.284-02,Amazonas,1,2005-08-27,carvalhocaroline@barbosa.br,"Conjunto Juliana da Costa, 47",vespertino,github
+Augusto Rodrigues,568.734.102-17,Bahia,3,1995-06-01,heitor17@yahoo.com.br,"Favela de Campos, 5",vespertino,carreiras
+Rodrigo da Mata,538.917.604-93,Distrito Federal,3,1995-06-16,levi75@hotmail.com,"Travessa de Rocha, 32",noturno,scrum
+Clara Monteiro,486.317.052-17,Santa Catarina,1,2004-02-17,apeixoto@da.com,"Avenida Lara Cavalcanti, 939",vespertino,introdução ao python
+Anthony Campos,137.204.968-13,Ceará,3,1992-05-21,gmoreira@nunes.com,"Núcleo Monteiro, 408",matutino,scrum
+Yago Gonçalves,079.421.653-61,Minas Gerais,1,1995-08-24,moraesbruno@alves.org,"Alameda Danilo Moura, 84",matutino,aprofundamento ao python
+Helena da Cruz,941.308.672-96,Goiás,1,2001-10-23,clara77@uol.com.br,"Quadra de Araújo, 75",noturno,git
+Bianca Araújo,701.528.649-11,Roraima,2,1992-08-31,stephanymoreira@monteiro.org,Sítio de Melo,matutino,github
+Larissa da Luz,619.532.740-99,Paraíba,3,2005-08-05,oliviacavalcanti@yahoo.com.br,Núcleo Costela,matutino,git
+Amanda Caldeira,267.054.918-76,Distrito Federal,1,1995-03-10,aliceazevedo@aragao.br,"Alameda Rocha, 22",matutino,banco de dados
+Maria Pinto,948.365.012-70,Paraíba,2,1993-03-15,luiz-henrique93@hotmail.com,"Avenida Campos, 71",noturno,git
+João Pedro Lima,948.172.506-58,Acre,2,1994-09-22,yurisilva@cardoso.com,"Largo Caldeira, 15",vespertino,github
+Augusto Martins,903.214.687-40,Bahia,2,2003-05-04,melolucca@hotmail.com,Praça Gomes,vespertino,scrum
+Lucca Fernandes,417.592.380-23,Rondônia,3,2004-03-11,theo90@cunha.net,"Estação de Campos, 48",vespertino,github
+Davi Lucas Campos,761.092.834-87,Ceará,2,2002-05-04,alananascimento@gmail.com,"Esplanada Melissa da Cruz, 52",matutino,scrum
+Maria Alice Dias,703.956.421-16,Amapá,1,1992-10-11,gribeiro@gmail.com,"Distrito de Costela, 606",vespertino,carreiras
+Luiz Henrique Freitas,493.016.728-04,Mato Grosso do Sul,3,2002-09-10,castroemanuelly@ig.com.br,"Chácara Luiz Fernando Silveira, 623",noturno,banco de dados
+Emanuel Pires,602.479.835-00,Amazonas,1,1997-07-16,maria-luizabarbosa@silveira.br,"Lagoa de Barbosa, 6",vespertino,banco de dados
+Isabella Duarte,103.678.259-02,Paraná,1,1999-02-19,giovanna32@uol.com.br,"Ladeira da Paz, 87",noturno,introdução ao python
+Luiz Felipe Moreira,027.865.439-83,Piauí,3,2004-12-23,rodriguescarolina@uol.com.br,"Ladeira de Rezende, 5",vespertino,git
+Sarah Moraes,263.579.048-56,Amazonas,2,2004-06-16,da-costaluiza@cavalcanti.net,"Viaduto de Freitas, 97",noturno,github
+Renan Rezende,469.287.350-74,Pernambuco,3,2002-06-28,camposjoana@uol.com.br,"Área de da Cunha, 465",vespertino,banco de dados
+Luigi Gomes,457.210.968-02,São Paulo,3,1994-12-04,luiz-otavio97@bol.com.br,"Sítio Correia, 152",vespertino,carreiras
+Ana Julia da Rosa,054.162.937-99,Paraná,3,1997-12-09,vitor-hugo12@farias.com,"Ladeira João Guilherme Alves, 194",matutino,github
+Ana Carolina Almeida,456.903.872-74,Sergipe,3,2000-11-23,igor97@uol.com.br,"Campo Nogueira, 3",noturno,banco de dados
+Luiz Miguel Moura,210.473.685-44,Tocantins,3,1998-08-28,gabrielly01@da.com,"Campo Camila Barbosa, 25",noturno,github
+Luiz Fernando Alves,819.250.763-77,Paraná,2,1992-05-21,wmonteiro@santos.com,"Parque Sabrina da Rocha, 56",noturno,introdução ao python
+Bárbara Oliveira,310.697.285-86,Ceará,2,1996-05-26,eduardogomes@da.org,"Passarela de Carvalho, 97",vespertino,carreiras
+Catarina Gomes,364.850.972-10,Maranhão,2,1997-07-12,pintofernanda@castro.br,"Lago de Monteiro, 4",vespertino,banco de dados
+Gabriela das Neves,395.821.460-60,Roraima,3,1992-03-07,jsantos@ig.com.br,"Esplanada Ribeiro, 69",matutino,carreiras
+Agatha Farias,293.476.018-96,Alagoas,1,2003-08-31,leonardoda-rosa@da.com,"Setor de Vieira, 6",matutino,carreiras
+Daniel Barbosa,608.412.937-40,Distrito Federal,3,1991-06-25,barbosastephany@da.com,"Feira Silveira, 9",vespertino,git
+Ana Beatriz da Mota,843.617.025-35,Pernambuco,1,1999-10-17,pedro-henriquealves@yahoo.com.br,"Colônia de Rezende, 47",matutino,banco de dados
+Calebe Caldeira,035.178.694-57,Mato Grosso do Sul,3,1993-09-11,barbosaana-luiza@cardoso.com,"Favela Samuel Dias, 6",vespertino,banco de dados
+Lara da Mota,516.842.379-55,Goiás,1,1997-06-23,freitasheitor@lopes.net,"Morro de Melo, 90",noturno,introdução ao python
+Francisco da Rocha,249.810.675-85,Paraná,2,2003-11-04,caio72@gmail.com,"Recanto de da Rocha, 15",vespertino,introdução ao python
+Davi Lima,043.926.157-07,Paraná,3,1994-09-04,vieirathiago@uol.com.br,"Largo Maria Vitória Martins, 92",vespertino,github
+Brenda Cardoso,284.976.530-92,Espírito Santo,2,2004-10-16,samuelpinto@ig.com.br,"Setor Maria Sophia Correia, 41",vespertino,git
+Kamilly Farias,936.745.812-64,Distrito Federal,1,1997-07-18,carolinadas-neves@sales.br,"Avenida de Castro, 34",noturno,banco de dados
+Beatriz das Neves,096.824.173-50,São Paulo,3,1995-10-05,isabelly55@da.br,"Sítio Lopes, 39",vespertino,git
+Ana Clara Ribeiro,153.709.826-86,Minas Gerais,2,2003-03-21,rafaela56@novaes.br,Largo Barros,matutino,scrum
+Luiz Henrique Gonçalves,490.723.618-22,Roraima,1,2000-10-22,isis50@bol.com.br,"Trevo de Nascimento, 41",noturno,aprofundamento ao python
+Pietra Azevedo,029.134.687-13,Goiás,1,1994-10-29,ana-juliamelo@teixeira.com,"Quadra de Araújo, 38",matutino,aprofundamento ao python
+Arthur Teixeira,321.054.976-16,São Paulo,1,1993-06-29,maria-alicenogueira@hotmail.com,"Aeroporto de Novaes, 86",matutino,scrum
+Alexia Martins,650.234.918-89,Roraima,2,1995-08-10,nascimentoisabella@das.br,"Largo Davi Lucca Costa, 85",noturno,git
+Sabrina Silveira,064.823.759-10,São Paulo,2,1996-08-12,catarinaazevedo@hotmail.com,"Setor Maria Vitória Viana, 59",noturno,introdução ao python
+Alana Almeida,045.896.317-84,São Paulo,1,2002-11-14,levicampos@oliveira.com,"Praia de Novaes, 4",matutino,scrum
+Heloísa Cardoso,935.120.648-33,Paraíba,1,2004-04-12,ida-rocha@bol.com.br,Esplanada Murilo Almeida,noturno,introdução ao python
+Luigi Jesus,538.749.120-60,Rondônia,2,1991-08-30,teixeirabeatriz@bol.com.br,"Aeroporto de Duarte, 56",noturno,introdução ao python
+Ana Campos,586.324.710-07,Rio de Janeiro,1,1996-12-23,erickda-luz@yahoo.com.br,"Fazenda de Barros, 20",noturno,aprofundamento ao python
+Ana Vitória Barros,305.286.194-89,Rio Grande do Norte,1,2000-08-08,vieiraisabelly@novaes.br,"Condomínio Calebe Alves, 343",noturno,git
+Nina Barros,654.182.937-37,Piauí,2,1997-03-31,teixeiralaura@alves.br,"Loteamento João Lucas Caldeira, 21",noturno,introdução ao python
+Carlos Eduardo Rodrigues,561.027.398-68,Sergipe,3,1998-06-09,francisco41@hotmail.com,Pátio Maria Julia da Mata,matutino,aprofundamento ao python
+Giovanna Gonçalves,049.573.612-07,Minas Gerais,3,1998-01-22,gnunes@uol.com.br,"Núcleo Teixeira, 9",noturno,introdução ao python
+Clarice Campos,694.128.375-00,Rio Grande do Sul,3,2005-05-04,ribeiromaria-eduarda@dias.org,"Setor Thiago Ribeiro, 167",matutino,git
+Kevin Jesus,174.032.658-07,Tocantins,1,1996-11-24,isabellyaraujo@correia.br,"Recanto de Barros, 86",noturno,github
+Erick Carvalho,538.902.714-05,Espírito Santo,2,2000-01-11,marcelacampos@das.com,Viaduto da Mata,matutino,introdução ao python
+Ana Carolina Fogaça,963.814.072-04,Paraná,2,2004-11-13,diogoramos@hotmail.com,"Praça Alexia Carvalho, 66",vespertino,scrum
+João Felipe da Luz,847.506.213-07,Alagoas,1,1993-03-12,da-costalucas@ig.com.br,"Sítio Luigi Silveira, 20",noturno,carreiras
+Cauã Fogaça,306.845.127-26,Espírito Santo,3,1999-05-28,marcelooliveira@ferreira.com,"Fazenda Paulo Barros, 75",noturno,introdução ao python
+Luigi Cardoso,587.164.920-30,Espírito Santo,2,1992-08-19,natalialopes@ig.com.br,"Área Lima, 34",noturno,scrum
+Bryan Novaes,286.941.503-60,Mato Grosso,1,2004-06-10,pvieira@moreira.br,"Setor de Jesus, 64",matutino,scrum
+João Lucas Cardoso,756.348.210-53,Rondônia,1,1996-01-10,leticia39@goncalves.com,"Condomínio Arthur Rocha, 86",matutino,scrum
+Camila da Rocha,143.297.086-04,Alagoas,1,1993-02-02,dferreira@ig.com.br,Favela Gonçalves,vespertino,introdução ao python
+Noah Gomes,740.165.283-80,Mato Grosso do Sul,2,1994-08-29,gabriela30@ig.com.br,Condomínio de Rocha,vespertino,introdução ao python
+Ana Vitória Alves,908.216.745-01,Paraíba,2,2000-01-13,isisdias@da.org,Fazenda Dias,vespertino,scrum
+Ryan Nascimento,201.486.397-04,Mato Grosso,2,1991-06-20,luizaribeiro@gmail.com,"Estrada de Souza, 68",noturno,banco de dados
+Maria Julia Castro,209.175.384-04,Acre,2,1992-05-05,ana-sophia92@farias.br,"Loteamento Rezende, 403",vespertino,banco de dados
+Davi Duarte,854.017.692-02,Bahia,3,1991-10-20,isabelly55@hotmail.com,"Rua de da Costa, 1",noturno,git
+Lucca Monteiro,289.416.703-22,Mato Grosso,2,1999-09-04,kduarte@nunes.com,"Conjunto de da Mota, 1",matutino,github
+Lívia Rodrigues,128.504.693-51,Tocantins,3,1997-12-15,nribeiro@gmail.com,Fazenda Valentina Azevedo,matutino,git
+Kaique Moraes,135.782.469-64,Distrito Federal,1,1996-11-18,noah76@lopes.com,"Lago Sophie Porto, 34",noturno,git
+Vitor Santos,257.341.968-19,Ceará,3,2004-04-03,marianada-cunha@gmail.com,"Pátio de Ferreira, 5",noturno,scrum
+Ana Vitória Silva,105.738.429-14,Minas Gerais,2,2005-08-15,xnogueira@fernandes.br,"Praia Kaique Jesus, 173",noturno,carreiras
+Calebe Monteiro,534.192.706-07,Roraima,3,2004-11-23,enzo-gabriel94@novaes.net,"Estrada de Dias, 199",vespertino,github
+Bárbara Moura,245.796.310-99,Rondônia,2,2005-04-04,samuelsilva@campos.com,"Chácara de Monteiro, 65",vespertino,introdução ao python
+Isadora da Rocha,710.486.392-31,Tocantins,2,2001-02-13,anthony90@ig.com.br,"Lagoa de Cardoso, 15",matutino,introdução ao python
+Emanuella Souza,267.941.305-99,Sergipe,2,2003-11-11,vferreira@ig.com.br,"Condomínio de Moraes, 8",vespertino,carreiras
+Maitê das Neves,397.684.052-10,Pernambuco,3,2002-08-14,bruno37@ig.com.br,"Morro Marina Lopes, 6",vespertino,aprofundamento ao python
+Larissa Porto,723.106.498-13,Mato Grosso do Sul,3,1999-11-15,dmoraes@gmail.com,"Sítio de Mendes, 6",noturno,scrum
+Maitê Rodrigues,158.320.469-51,Pará,3,2003-10-02,camilada-cruz@da.com,"Passarela João Pedro Costela, 6",matutino,github
+Alice da Conceição,093.486.127-78,Piauí,1,1993-12-14,ferreiramelissa@cunha.com,"Residencial Isadora Nogueira, 90",vespertino,carreiras
+Maria Clara Viana,728.149.065-85,Tocantins,3,2003-12-30,irodrigues@yahoo.com.br,"Travessa Lavínia Porto, 51",matutino,carreiras
+Ana Julia Jesus,569.701.342-61,Mato Grosso,1,1999-11-13,da-cruzandre@ferreira.br,"Núcleo de da Conceição, 76",matutino,scrum
+Luigi da Luz,389.762.104-50,Acre,1,2002-10-31,cardosomariane@uol.com.br,"Residencial Matheus Nogueira, 80",vespertino,scrum
+Marcelo da Rosa,140.689.527-01,Tocantins,2,1997-01-06,theocarvalho@ig.com.br,Vereda de Aragão,vespertino,git
+Alexandre Silva,920.631.458-06,Distrito Federal,3,2002-05-24,acorreia@fogaca.com,"Residencial de Rodrigues, 20",noturno,scrum
+Stephany Silveira,492.781.306-13,Paraná,2,2000-12-15,da-rosaluiza@santos.net,"Praia Henrique Rocha, 64",vespertino,github
+João Felipe Gonçalves,298.415.370-79,Maranhão,2,2002-11-06,fernandesluiz-henrique@da.net,"Avenida Luana Cardoso, 99",noturno,introdução ao python
+Lucas Gabriel Farias,165.497.830-20,Paraná,2,2003-09-01,vitor52@cunha.net,"Via Ana Lívia Viana, 13",vespertino,aprofundamento ao python
+Gabriel Castro,985.731.402-32,Espírito Santo,2,1992-12-12,cunhagabrielly@ig.com.br,"Conjunto de Campos, 62",matutino,carreiras
+Ana Laura Pires,026.534.917-61,Rio de Janeiro,3,1998-01-31,joao-miguelfogaca@fogaca.br,"Feira Almeida, 82",vespertino,banco de dados
+Luiz Miguel Porto,185.032.467-08,Rio Grande do Sul,3,2003-02-18,tbarbosa@yahoo.com.br,"Rua Lucas Rodrigues, 42",matutino,scrum
+Otávio da Mata,760.289.153-86,Paraná,2,2001-03-27,kamilly44@sales.br,"Trevo Caldeira, 3",vespertino,carreiras
+Nina Novaes,076.985.124-01,Rio Grande do Sul,1,1999-01-09,thalescorreia@uol.com.br,Trecho Cunha,noturno,banco de dados
+Augusto Almeida,369.027.854-65,Rio Grande do Norte,2,2004-10-23,isabella77@ig.com.br,"Loteamento de Ribeiro, 934",matutino,github
+Cecília Fernandes,203.465.197-99,Rio de Janeiro,1,1994-06-04,maysapereira@fernandes.com,"Morro Fogaça, 923",noturno,carreiras
+Maria Eduarda Ferreira,187.534.602-35,Roraima,3,1992-04-09,alexia60@gmail.com,"Área Dias, 30",vespertino,git
+Caroline Souza,938.726.405-00,Espírito Santo,2,1995-11-15,ana-julia69@teixeira.br,"Vereda Carvalho, 7",matutino,aprofundamento ao python
+Gabriela Melo,731.028.649-96,Maranhão,1,1994-01-23,ada-conceicao@gmail.com,"Vale Juan Duarte, 61",matutino,banco de dados
+Diego Rezende,239.470.165-06,Distrito Federal,1,1993-05-25,luigigoncalves@yahoo.com.br,"Lagoa Marina da Cunha, 73",noturno,github
+Vitor Hugo Viana,692.531.074-99,Rondônia,2,1992-07-28,lais68@ribeiro.org,"Chácara Diego Nascimento, 5",vespertino,git
+Luiz Felipe Correia,907.342.586-74,Pernambuco,1,2002-03-10,bcaldeira@lima.com,"Vila Melo, 576",noturno,git
+Luiz Otávio Correia,302.149.678-40,Acre,3,2001-04-25,eduardo05@silva.com,"Viela Raul Jesus, 61",vespertino,carreiras
+Maria Sophia Jesus,081.354.279-05,Rio Grande do Sul,1,2005-06-27,thiago79@ig.com.br,"Esplanada de Araújo, 97",vespertino,banco de dados
+Rebeca das Neves,372.510.698-30,Tocantins,3,1998-09-14,emillycarvalho@bol.com.br,"Esplanada de Porto, 68",matutino,scrum
+Marcos Vinicius Correia,974.068.153-01,Rio Grande do Norte,1,1992-01-01,helena39@da.br,"Condomínio de Farias, 49",matutino,introdução ao python
+Anthony Fernandes,430.958.721-60,Alagoas,1,2005-07-22,vieirajulia@hotmail.com,"Praia Pereira, 310",vespertino,carreiras
+Luiz Otávio Lima,950.473.162-70,Bahia,2,1994-11-19,monteirojuliana@ig.com.br,"Condomínio Santos, 77",noturno,aprofundamento ao python
+Marcela Silveira,402.356.791-43,Rio Grande do Norte,3,2001-09-23,joaquim49@silva.net,"Rua Melo, 45",vespertino,github
+Ana Julia Rocha,527.890.143-88,Rondônia,1,1992-08-24,ksantos@uol.com.br,Rodovia Thiago da Mata,noturno,aprofundamento ao python
+Kamilly Cardoso,471.623.059-70,Amazonas,2,2001-06-22,mourakaique@bol.com.br,"Aeroporto de Vieira, 49",matutino,git
+Raul Carvalho,402.835.691-15,Ceará,3,2005-06-02,calebelopes@gomes.br,"Aeroporto Barbosa, 92",noturno,banco de dados
+Heloísa Rodrigues,870.536.129-02,Amazonas,2,1997-04-14,rcampos@ig.com.br,"Praia de Nogueira, 50",vespertino,aprofundamento ao python
+Arthur da Mata,824.937.016-31,Alagoas,1,1992-03-15,tsantos@ig.com.br,"Trevo de Viana, 90",matutino,carreiras
+Caroline Alves,350.841.762-07,Paraná,1,1999-12-12,ana-claracaldeira@costela.br,Esplanada de Martins,matutino,github
+Guilherme da Cunha,197.602.543-52,Piauí,3,2005-03-22,ana-julia70@teixeira.com,"Recanto Campos, 420",vespertino,introdução ao python
+Ian da Mata,548.732.160-44,Pará,1,2004-04-22,isabellacastro@costela.br,"Feira Ana Luiza Barros, 42",noturno,github
+Kevin Azevedo,386.459.217-82,Espírito Santo,1,1993-05-11,sarah74@yahoo.com.br,"Alameda Miguel Araújo, 26",matutino,github
+Nicole Freitas,164.357.829-46,Rio de Janeiro,3,1996-01-23,ana-julia74@nascimento.br,"Parque João Miguel Rocha, 13",noturno,github
+Pedro Henrique Peixoto,350.948.762-10,São Paulo,3,1995-03-30,eduardosilveira@ig.com.br,"Quadra Silveira, 86",noturno,introdução ao python
+Brenda Costela,540.376.892-00,Tocantins,3,2000-08-07,caio06@yahoo.com.br,"Colônia Mendes, 835",vespertino,carreiras
+Evelyn Freitas,528.761.349-00,Pará,3,2000-06-13,mouracalebe@almeida.br,"Lagoa Oliveira, 934",noturno,github
+Emanuel da Cruz,075.234.619-99,Espírito Santo,1,1991-02-16,oliveiramarina@yahoo.com.br,Lagoa Diogo Cardoso,vespertino,git
+Ian da Luz,603.942.815-51,Mato Grosso,3,2003-09-14,imartins@uol.com.br,Vila de Fernandes,vespertino,aprofundamento ao python
+Juan Novaes,230.759.841-32,Mato Grosso do Sul,2,1992-04-03,ycostela@bol.com.br,"Morro de Ramos, 58",noturno,git
+Vitor Gabriel Duarte,692.740.385-00,São Paulo,2,2002-05-09,krodrigues@cardoso.com,Condomínio de Gomes,vespertino,banco de dados
+Luiz Gustavo Fernandes,057.984.623-74,Pará,2,1995-11-23,pda-luz@novaes.br,Praça de Silveira,noturno,banco de dados
+Juan Almeida,523.076.948-38,Ceará,2,2005-05-16,da-pazjulia@uol.com.br,"Alameda de Freitas, 590",noturno,carreiras
+Vitor Gabriel Farias,813.465.907-10,Santa Catarina,1,1995-10-04,cecilia37@hotmail.com,"Estrada Porto, 76",noturno,git
+Carlos Eduardo Nogueira,195.842.370-04,Amapá,3,1996-12-20,thales46@uol.com.br,"Viaduto Carvalho, 5",vespertino,scrum
+Luiz Miguel Castro,520.364.981-24,Bahia,1,1996-10-26,joanacastro@costa.com,"Condomínio Mirella Monteiro, 138",noturno,github
+Stella Azevedo,863.457.290-00,Rio Grande do Sul,2,2003-05-23,vitor-hugo23@rezende.com,"Largo Luiz Otávio Cavalcanti, 40",noturno,git
+Vinicius Teixeira,143.059.827-14,Amazonas,2,1992-04-27,bnunes@hotmail.com,"Passarela Oliveira, 9",vespertino,aprofundamento ao python
+Carolina Campos,295.378.041-60,Distrito Federal,2,1994-10-09,zcavalcanti@yahoo.com.br,"Jardim de Alves, 3",vespertino,github
+Gabriel Alves,936.814.750-75,Roraima,2,2001-06-27,luizabarros@gmail.com,Ladeira de Melo,matutino,carreiras
+Bruna Moraes,638.479.120-03,Ceará,1,2004-11-06,wlopes@uol.com.br,Passarela Thomas Pires,matutino,github
+Benício Ramos,392.186.045-89,Bahia,3,1996-06-20,lucas-gabriel20@uol.com.br,"Área Alícia da Cunha, 18",vespertino,aprofundamento ao python
+Laís Pinto,174.630.829-03,Goiás,2,1994-09-24,luananunes@novaes.br,"Parque Maria Clara da Rocha, 23",vespertino,carreiras
+Clarice das Neves,097.431.685-75,Rondônia,3,2000-11-30,ninanunes@gomes.net,"Loteamento Maria Vitória Cardoso, 9",vespertino,introdução ao python
+Juliana Melo,097.468.521-67,Tocantins,1,1995-05-09,rochaana-luiza@da.com,"Praça de da Cunha, 4",noturno,carreiras
+Maria Vitória Cunha,046.193.782-40,Pará,1,1998-04-26,gramos@martins.br,"Ladeira Nogueira, 28",noturno,banco de dados
+Ana Monteiro,761.830.945-01,Pernambuco,3,2003-02-22,luna72@da.br,"Viaduto Isaac Pires, 54",vespertino,scrum
+Daniela Nogueira,601.857.392-02,Paraná,2,2002-05-22,luiz-gustavonovaes@viana.com,"Estrada Dias, 18",matutino,github
+Calebe Lima,349.851.726-00,Rio de Janeiro,1,1996-02-06,costelaigor@rocha.com,Loteamento Campos,vespertino,aprofundamento ao python
+Maria Julia da Cruz,839.542.716-64,Minas Gerais,3,2002-05-29,ana-vitoriafreitas@monteiro.org,"Viela Cavalcanti, 634",matutino,git
+Antônio Sales,126.047.938-22,Paraná,3,2001-06-28,caldeiraana-luiza@porto.org,"Jardim da Costa, 511",matutino,introdução ao python
+Maria Vitória Cardoso,612.089.574-49,Amazonas,2,1990-12-03,teixeiramiguel@hotmail.com,"Trevo Nunes, 61",matutino,aprofundamento ao python
+João Vitor Teixeira,741.236.089-22,Tocantins,2,2003-02-20,pereirakaique@pinto.com,"Jardim de Mendes, 85",vespertino,aprofundamento ao python
+Raul Fernandes,623.854.791-09,Rondônia,2,1997-04-02,stephanybarros@ig.com.br,"Campo Henrique Melo, 53",matutino,carreiras
+Cauê Teixeira,162.830.594-06,Mato Grosso do Sul,1,1991-07-06,melissapereira@ig.com.br,"Chácara Ramos, 54",matutino,aprofundamento ao python
+Ana Clara Silva,970.461.852-20,Acre,2,1994-06-23,emanuelly34@ig.com.br,"Vereda Davi Ribeiro, 410",matutino,banco de dados
+Benício Gonçalves,940.753.628-92,Minas Gerais,2,1997-08-02,lopesjoao-miguel@das.br,"Parque Ramos, 88",noturno,github
+Enzo da Conceição,428.307.659-74,Santa Catarina,3,1996-11-27,pietra26@uol.com.br,"Setor Souza, 95",matutino,introdução ao python
+Alícia Carvalho,843.169.752-00,Roraima,3,1992-05-11,portopedro-henrique@gmail.com,"Rodovia de Melo, 22",vespertino,git
+Davi Lucas Jesus,275.864.103-80,Maranhão,1,2001-02-04,da-rosaaugusto@lopes.org,"Chácara de Martins, 508",noturno,introdução ao python
+Gustavo Gonçalves,516.708.493-84,Paraíba,3,1993-06-30,bsouza@yahoo.com.br,Aeroporto de Souza,matutino,git
+Maria Clara Cardoso,561.398.074-84,Maranhão,1,1997-01-14,ferreiranicolas@santos.br,Passarela de Correia,vespertino,introdução ao python
+André Freitas,978.456.031-39,Santa Catarina,1,1999-11-05,augusto29@ig.com.br,"Rua Cauê Costela, 50",noturno,carreiras
+Maria Alice Gomes,128.703.496-96,Tocantins,3,1999-10-14,fmendes@monteiro.br,"Feira de Lima, 71",matutino,github
+Lucas Gabriel Pinto,851.490.263-60,Alagoas,3,1998-06-15,pedro-henrique19@yahoo.com.br,"Largo Carlos Eduardo Mendes, 12",noturno,aprofundamento ao python
+Ryan Fogaça,691.458.032-42,Rondônia,2,1998-07-28,breno67@gmail.com,"Vila de Lima, 67",vespertino,banco de dados
+Maria Cecília Rodrigues,156.308.742-17,Rio Grande do Norte,3,1990-11-28,slima@hotmail.com,"Morro Ana Carolina Rezende, 336",matutino,banco de dados
+Paulo da Cunha,406.785.312-26,Espírito Santo,2,1993-02-07,xbarros@gmail.com,"Recanto Correia, 46",matutino,banco de dados
+Kevin Monteiro,208.615.493-33,Pernambuco,2,2001-06-15,mirella86@gmail.com,"Setor de Almeida, 60",vespertino,git
+Evelyn Correia,810.652.973-86,Pernambuco,2,1999-06-17,da-cruzisabella@yahoo.com.br,Morro Evelyn Carvalho,matutino,introdução ao python
+Eloah Cunha,874.519.023-23,Santa Catarina,2,1991-10-21,laramoreira@hotmail.com,"Viaduto Vieira, 71",vespertino,git
+Kevin Freitas,628.194.573-55,Acre,1,1997-01-30,pedro-lucaspires@pinto.net,Recanto Moreira,matutino,banco de dados
+Ian da Rosa,512.049.368-89,Maranhão,1,2000-01-18,cardosoluiz-miguel@das.net,"Pátio de Porto, 956",matutino,carreiras
+Ana Beatriz Pereira,653.249.087-38,Mato Grosso do Sul,2,1998-03-02,wda-paz@moraes.com,"Rua de das Neves, 47",matutino,carreiras
+Carlos Eduardo Dias,695.408.321-60,Santa Catarina,3,1991-04-26,das-nevesraquel@ig.com.br,Trevo de Nascimento,matutino,github
+Levi Alves,237.815.946-37,Rondônia,2,1996-11-20,alexiacampos@hotmail.com,"Trevo Carvalho, 61",vespertino,banco de dados
+Júlia Barros,670.153.928-95,Roraima,1,1996-02-07,isabella78@uol.com.br,"Trevo Isaac Ramos, 50",vespertino,carreiras
+Vitória Moraes,724.359.610-06,Roraima,3,1994-02-13,costelaesther@ferreira.com,"Vale Barbosa, 88",vespertino,carreiras
